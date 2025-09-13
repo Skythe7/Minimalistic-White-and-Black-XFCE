@@ -7,8 +7,8 @@ This is my minimalistic black and white Adam dotfiles for XFCE.
 ---
 
 ## Polybar/Fastfetch theme
-- [fastfetch](https://github.com/LierB/fastfetch) - use the *hypr* ones
-- [polybar](https://github.com/adi1090x/polybar-themes) - use the *hack* ones
+- [fastfetch](https://github.com/LierB/fastfetch) - use the **hypr** ones
+- [polybar](https://github.com/adi1090x/polybar-themes) - use the **hack** ones
 
 ---
 
