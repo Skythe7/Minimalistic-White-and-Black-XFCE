@@ -7,15 +7,15 @@ This is my minimalistic black and white Adam dotfiles for XFCE.
 ---
 
 ## Polybar/Fastfetch theme
-[fastfetch](https://github.com/LierB/fastfetch)
-[polybar](https://github.com/adi1090x/polybar-themes)
+- [fastfetch](https://github.com/LierB/fastfetch) - use the *hypr* ones
+- [polybar](https://github.com/adi1090x/polybar-themes) - use the *hack* ones
 
 ---
 
 ## NOTE/WARNING
 - This is used in XFCE. If you're in a different DE, ignore the gtk.css file.
 - Enable hidden directory/files first when enetering the dotfiles directory
-- If anything breaks. Goodluck, I ain't helping that (Sorry)
+- If anything breaks. Goodluck, I ain't helping that <sub>(Sorry)</sub>
 
 ---
 
