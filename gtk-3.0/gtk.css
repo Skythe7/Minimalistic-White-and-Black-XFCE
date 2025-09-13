@@ -1,0 +1,25 @@
+.xfce4-panel {
+	border-radius: 0px;
+	border: 1px solid white;
+}
+
+.tasklist button:checked {
+	border-bottom: 1px solid white;
+}
+
+.tasklist button {
+	margin: 0px 1px;
+}
+
+.xfce4-panel .pager button {
+	background-color: rgb(50, 50, 50);
+	border: 1px solid white;
+}
+
+.xfce4-panel .pager button:checked {
+	background-color: #ffffff;
+}
+
+.xfce4-panel .pager button:hover {
+	border-bottom: 1px solid white;
+}
