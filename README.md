@@ -2,7 +2,7 @@
 This is my minimalistic black and white Adam dotfiles for XFCE.
 
 ## Preview
-! [image preview] (image-for-readme/image)
+! [image preview] (image-for-readme/image.png)
 
 ---
 
