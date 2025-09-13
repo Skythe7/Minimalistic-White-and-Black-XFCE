@@ -6,9 +6,10 @@ This is my minimalistic black and white Adam dotfiles for XFCE.
 
 ---
 
-## Polybar/Fastfetch theme
+## Polybar/Fastfetch/GTK-3.0 theme
 - [fastfetch](https://github.com/LierB/fastfetch) - use the **hypr** ones
 - [polybar](https://github.com/adi1090x/polybar-themes) - use the **hack** ones
+- [BlackAndWhite](https://www.pling.com/p/2010116/) - Download this theme first
 
 ---
 
@@ -19,4 +20,4 @@ This is my minimalistic black and white Adam dotfiles for XFCE.
 
 ---
 
-### THANK YOU!
+# THANK YOU!
